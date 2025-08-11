@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I'm Sanket Purohit
 
-🚀 Passionate **Full Stack Software Developer** with 4+ years of experience building scalable **web and mobile applications**. I work across frontend and backend systems, lead teams, and enjoy solving complex problems.
+🚀 Passionate **Full Stack Software Developer** with 5.3+ years of experience building scalable **web and mobile applications**. I work across frontend and backend systems, lead teams, and enjoy solving complex problems.
 
 ---
 
