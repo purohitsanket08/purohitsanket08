@@ -41,15 +41,6 @@
 - 🔹 **Garage Works** — Doorstep bike service platform with booking, payment & vendor management. (Full stack: Node.js, React, MySQL, AWS)  
 - 🔹 **Co-operative Banking App** — Mobile app for FD management, wallet funding, notifications. (Flutter + Node.js)  
 - 🔹 **E-learning Platform (Inspire Trade)** — Webinar/class scheduling and content delivery. (PHP / MySQL)
-
----
-
-## 📈 GitHub Stats
-
-![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purohitsanket08&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purohitsanket08&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=purohitsanket08&theme=tokyonight)
-
 ---
 
 ## 🧭 About Me
